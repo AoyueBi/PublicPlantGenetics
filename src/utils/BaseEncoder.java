@@ -43,6 +43,8 @@ public class BaseEncoder {
         return ascIIByteMap;
     }
     
+   vehhv hd
+    
     /**
      * Return a reverse complementary byte array
      * @param a The byte array must be in 0-3 coding for A, C, G, T, other bases are 4
